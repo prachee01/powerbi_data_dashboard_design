@@ -26,3 +26,4 @@ Design a project dashboard using Power BI to help stakeholders track:
 - Microsoft PowerPoint
 - GitHub
 ## 👤 Created by: Prachee Chahar
+[Linkedin Profile]:[https://www.linkedin.com/in/prachee-chahar-6637832a1]
