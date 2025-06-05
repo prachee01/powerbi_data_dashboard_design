@@ -1,6 +1,7 @@
 # powerbi_data_dashboard_design
-This repository is created as part of the Internship Task 3, focusing on data dashboard design using a Project Management dataset.
+This repository is created as part of the Internship Task , focusing on data dashboard design using a Project Management dataset.
 
+# Project Management Dashboard – Task 3
 
 ## 📝 Objective
 Design a project dashboard using Power BI to help stakeholders track:
